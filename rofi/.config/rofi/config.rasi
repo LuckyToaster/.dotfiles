@@ -1,0 +1,8 @@
+configuration {
+	modi: "window";
+    show-icons: true;
+    font: "SF Mono 11";
+    width: 30;
+	}
+
+
